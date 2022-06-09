@@ -35,6 +35,6 @@ public class hrmsLoginpage {
 	
 	public void login() {
 		Emailid().sendKeys("yash.shaha");
-		Passwords().sendKeys("Yshah5293@");
+		Passwords().sendKeys("******");
 		submit().click();
 		}}
